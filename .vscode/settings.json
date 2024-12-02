@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "cstdlib": "cpp",
-    "xtree": "cpp"
+    "xtree": "cpp",
+    "vector": "cpp"
   }
 }
