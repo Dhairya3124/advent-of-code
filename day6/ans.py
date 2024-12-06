@@ -1,12 +1,8 @@
-import sys
-import re
-from collections import defaultdict, Counter, deque
 import pyperclip as pc
 def pr(s):
     print(s)
     pc.copy(s)
 infile = 'c:/Users/dk958/advent-of-code/day6/input.txt'
-D = open(infile).read().strip()
 p1 = 0
 p2 = 0
 D = open(infile).read().strip()
